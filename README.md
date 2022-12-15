@@ -22,5 +22,5 @@
 
 ### Meus repositórios mais interessantes
 - [Spring React - Consumindo API de SMS](https://github.com/andrem4rks/spring-react)</br>
-- [Gerenciamento de Pessoas](https://github.com/andrem4rks/gerenciamento-pessoa)</br>
-- [Sistema de Livraria](https://github.com/andrem4rks/library-system-springboot)</br>
+- [Gerenciamento de Pessoas - Com Spring Boot e muito JavaScript](https://github.com/andrem4rks/gerenciamento-pessoa)</br>
+- [Sistema de Livraria - Meu primeiro repositório com Spring Boot](https://github.com/andrem4rks/library-system-springboot)</br>
