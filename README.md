@@ -18,7 +18,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrem4rks&exclude_repo=gerenciamento-pessoa&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrem4rks&exclude_repo=gerenciamento-pessoa,estrutura-algoritmos-ordenacao&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meus repositórios mais interessantes
 - [Spring React - Consumindo API de SMS](https://github.com/andrem4rks/spring-react)</br>
